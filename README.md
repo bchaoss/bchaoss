@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bchaoss
-- 👀 Interested in mathematics, coding and gender studies.
+- 👀 Interested in applied mathematics.
 - 🌱 Currently studying BA. mathematics and applied mathematics at East China Normal University, China
-- 📫 How to reach me: 
+- 📫 How to reach me: bcsong2024+g@gmail.com
 
 <!---
 bchaoss/bchaoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
