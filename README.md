@@ -12,7 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bchaoss/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bcsong)
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={bchaoss})
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=bchaoss" alt="LeetCode Badges"/>
 
 <!---
 bchaoss/bchaoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
