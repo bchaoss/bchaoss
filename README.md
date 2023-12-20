@@ -5,12 +5,14 @@
 - Currently studying BA. mathematics and applied mathematics at East China Normal University, China
 - 📫 How to reach me: bcsong2024@gmail.com
 
-<!---[![Bc's GitHub stats](https://github-readme-stats.vercel.app/api?username=bchaoss)](https://github.com/anuraghazra/github-readme-stats)--->
+<!---[![Bc's GitHub stats](https://github-readme-stats.vercel.app/api?username=bchaoss)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bchaoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bchaoss)
+--->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bchaoss/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bcsong)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/bchaoss/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bcsong)
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=bchaoss" alt="LeetCode Badges"/>
 
